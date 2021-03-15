@@ -19,7 +19,7 @@ echo X=MsgBox("Jajajaja %username% , alto nombre de virgen ",0+48,"Created By 54
 
 and chage it with
 "
-echo X=MsgBox("Your vomputer have a virus",0+48,"Windows") >> notvi.vbs
+echo X=MsgBox("Your computer have a virus",0+48,"Windows") >> notvi.vbs
 echo X=MsgBox("We recommend",0+48,"Windows") >> notvi.vbs
 echo X=MsgBox("Trust nobody",0+48,"%username% ") >> notvi.vbs
 echo X=MsgBox("hahahaha %username% , The most virgin name that I saw in my life ",0+48,"Created By 54n71") >> notvi.vbs
