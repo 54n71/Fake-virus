@@ -3,11 +3,32 @@ Before you hate this post, I know it is not a virus. It's just a bat file (and y
 
 You can "camouflage" it in any way but I leave it to you to do it to your liking
 
+If you want delete all of the archives of the "virus" after of start him:
+
+C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\tittl.mp3
+
+cd C:\Users\%username%\Desktop\ppppppppppppppp.bat
+
+cd C:\Users\%username%\Desktop\s44ss1541DDDDD44.bat
+
+cd C:\Users\%username%\Desktop\JAJAJAJAJA.vbs
+
+cd C:\Users\%username%\Desktop\JAJAJAJAJ4.bat
+
+cd C:\Users\%username%\Desktop\NoConfiesEnGenteDeInternet-60
+
+cd C:\Users\%username%\Desktop\s2.bat
+
+cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\notvi.vbs
+
 The texts of the file are in Spanish, if you want it in English simply replace the text by doing:
 
 Select the bat file
+
 Right click 
+
 and click edit
+
 Now go to 
 
 "
