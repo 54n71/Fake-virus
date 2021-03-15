@@ -1,7 +1,9 @@
 Hi 
 Before you hate this post, I know it is not a virus. It's just a bat file (and yes , i use the google traductor because i only know the basic english)
 
+
 You can "camouflage" it in any way but I leave it to you to do it to your liking
+
 
 If you want delete all of the archives of the "virus" after of start him:
 
@@ -20,6 +22,7 @@ cd C:\Users\%username%\Desktop\NoConfiesEnGenteDeInternet-60
 cd C:\Users\%username%\Desktop\s2.bat
 
 cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\notvi.vbs
+
 
 The texts of the file are in Spanish, if you want it in English simply replace the text by doing:
 
