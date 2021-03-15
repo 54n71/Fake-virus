@@ -33,5 +33,6 @@ echo X=MsgBox("We recommend",0+48,"Windows") >> notvi.vbs
 echo X=MsgBox("Trust nobody",0+48,"%username% ") >> notvi.vbs
 
 echo X=MsgBox("hahahaha %username% , The most virgin name that I saw in my life ",0+48,"Created By 54n71") >> notvi.vbs
+
 "
 
