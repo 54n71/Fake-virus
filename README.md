@@ -11,16 +11,27 @@ and click edit
 Now go to 
 
 "
+
 echo X=MsgBox("Su equipo esta infectado",0+48,"Windows") >> notvi.vbs
+
 echo X=MsgBox("Le recomendamos que..",0+48,"Windows") >> notvi.vbs
+
 echo X=MsgBox("No confies en nadie",0+48,"%username% ") >> notvi.vbs
+
 echo X=MsgBox("Jajajaja %username% , alto nombre de virgen ",0+48,"Created By 54n71") >> notvi.vbs
+
 "
 
 and chage it with
+
 "
+
 echo X=MsgBox("Your computer have a virus",0+48,"Windows") >> notvi.vbs
+
 echo X=MsgBox("We recommend",0+48,"Windows") >> notvi.vbs
+
 echo X=MsgBox("Trust nobody",0+48,"%username% ") >> notvi.vbs
+
 echo X=MsgBox("hahahaha %username% , The most virgin name that I saw in my life ",0+48,"Created By 54n71") >> notvi.vbs
 "
+
