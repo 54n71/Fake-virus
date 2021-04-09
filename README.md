@@ -23,6 +23,7 @@ cd C:\Users\%username%\Desktop\s2.bat
 
 cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\notvi.vbs
 
+and mucho others fils but easy to find it
 
 The texts of the file are in Spanish, if you want it in English simply replace the text by doing:
 
@@ -56,7 +57,7 @@ echo X=MsgBox("We recommend",0+48,"Windows") >> notvi.vbs
 
 echo X=MsgBox("Trust nobody",0+48,"%username% ") >> notvi.vbs
 
-echo X=MsgBox("hahahaha %username% , The most virgin name that I saw in my life ",0+48,"Created By 54n71") >> notvi.vbs
+echo X=MsgBox("hahahaha %username% , The most virgin name that I see in my life ",0+48,"Created By 54n71") >> notvi.vbs
 
 "
 
