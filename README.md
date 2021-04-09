@@ -23,7 +23,7 @@ cd C:\Users\%username%\Desktop\s2.bat
 
 cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\notvi.vbs
 
-and mucho others fils but easy to find it
+and much others fils but easy to find it
 
 The texts of the file are in Spanish, if you want it in English simply replace the text by doing:
 
