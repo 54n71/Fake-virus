@@ -1,10 +1,3 @@
-Update 1.6
-
--Now the .EXE file runs good
-
-Update 1.5
-
--Now in .EXE File
 
 
 Hi 
@@ -70,3 +63,13 @@ echo X=MsgBox("hahahaha %username% , The most virgin name that I see in my life 
 
 "
 
+
+
+Update 1.6
+
+-Now the .EXE file runs good
+
+
+Update 1.5
+
+-Now in .EXE File
