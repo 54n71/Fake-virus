@@ -1,3 +1,8 @@
+Update 1.6
+
+-Now in .EXE File
+
+
 Hi 
 Before you hate this post, I know it is not a virus. It's just a bat file (and yes , i use the google traductor because i only know the basic english)
 
