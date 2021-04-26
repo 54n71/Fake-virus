@@ -63,7 +63,9 @@ echo X=MsgBox("hahahaha %username% , The most virgin name that I see in my life 
 
 "
 
+Update 1.7
 
+-Simple error in command
 
 Update 1.6
 
