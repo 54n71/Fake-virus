@@ -14,8 +14,8 @@
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAnk
 ::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZk0aHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsFAlLMbCXqZg==
+::cxY6rQJ7JhzQF1fEqQJhZkMaHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsFAlzMbCXqZg==
 ::ZQ05rAF9IAHYFVzEqQIWAzJmeTfi
 ::eg0/rx1wNQPfEVWB+kM9LVsJDCKpFVmPNdU=
 ::fBEirQZwNQPfEVWB+kM9LVsJDFHWMjzrZg==
@@ -27,7 +27,7 @@
 ::Zg8zqx1/OA3MEVWAtB9wfU9aG1Xi
 ::dhA7pRFwIByZRRnRoExneXs=
 ::Zh4grVQjdCyDJGyX8VAjFC5naTa+GGS5E7gZ5vzo08uVoUUUQu0sOK3azvSHLvYW5FHlcZk+6lxxrsIeGQhkWDmdZx0huiBHrmHl
-::YB416Ek+ZG8=
+::YB416Ek+ZW8=
 ::
 ::
 ::978f952a14a936cc963da21a135fa983
@@ -79,108 +79,7 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
+start hhhh.vbs  
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
