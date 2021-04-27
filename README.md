@@ -64,6 +64,11 @@ echo X=MsgBox("hahahaha %username% , The most virgin name that I see in my life 
 "
 
 
+
+Update 2.1
+
+-More black and white screens
+
 Update 2.1
 
 -More Notifications when you start your pc
