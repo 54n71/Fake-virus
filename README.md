@@ -63,6 +63,11 @@ echo X=MsgBox("hahahaha %username% , The most virgin name that I see in my life 
 
 "
 
+
+Update 1.9
+
+-Random Mouse Movement 
+
 Update 1.8
 
 -Less first notifications
