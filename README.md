@@ -66,7 +66,7 @@ echo X=MsgBox("hahahaha %username% , The most virgin name that I see in my life 
 
 Update 2.0
 
--The cmd close Unexpectedly
+-I fix the error thet close the cmd Unexpectedly
 
 Update 1.9
 
