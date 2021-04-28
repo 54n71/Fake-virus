@@ -63,9 +63,11 @@ echo X=MsgBox("hahahaha %username% , The most virgin name that I see in my life 
 
 "
 
+Update 2.2
 
+-Change the backgroud to black (Only work if you have internet connection)
 
-Update 2.1
+Update 2.1.2
 
 -More black and white screens
 
