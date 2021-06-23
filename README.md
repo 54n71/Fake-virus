@@ -62,6 +62,12 @@ echo X=MsgBox("Trust nobody",0+48,"%username% ") >> notvi.vbs
 echo X=MsgBox("hahahaha %username% , The most virgin name that I see in my life ",0+48,"Created By 54n71") >> notvi.vbs
 
 "
+
+
+Update 2.4
+
+-Changes the wallpaper correctly without internet connection
+
 Update 2.3
 
 -More time to shutdown
