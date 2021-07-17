@@ -72,6 +72,7 @@ Update 2.5
 -Desactivate Permanently the antivirus
 -Error solutions
 -Add users 
+-More error sounds
 
 Update 2.4
 
