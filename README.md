@@ -1,3 +1,4 @@
+-Now they have some things that could affect your pc, i recomend try it with a Virtual Pc-
 
 
 Hi 
@@ -63,6 +64,14 @@ echo X=MsgBox("hahahaha %username% , The most virgin name that I see in my life 
 
 "
 
+there is more spanish text but they are insignificant
+
+
+
+Update 2.5
+-Desactivate Permanently the antivirus
+-Error solutions
+-Add users 
 
 Update 2.4
 
