@@ -1,4 +1,5 @@
 -Now they have some things that could affect your pc, i recomend try it with a Virtual Pc-
+-The "virus" will be more powerful if your pc is more powerful -
 
 
 Hi 
