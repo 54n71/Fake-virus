@@ -32,6 +32,10 @@ This virus can
 
 -Play annoying music 
 
+-You cant delete easier or close without task manager because this Runs in the background (no literaly background xd)
+
+
+
 
 Update 2.6
 
