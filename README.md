@@ -5,22 +5,36 @@ Now this can called a virus the bat file is older but the exe file no
 
 
 This virus can
+
 -desactivate shutdown and restart button (I dont know if works)
+
 -Changes the wallpaper 
+
 -Create much users
+
 -Create Folders
+
 -Create start files (Files that when you start your pc this can start automatically)
+
 -The start files can close the sesion, start some things, and put some notifications.
+
 -Desactivate Permanently the antivirus (idk if works fine)
+
 -Plays much error sounds
+
 -Shutdown the pc
+
 -Shows flash windows
+
 -Move the Mouse randomly 
+
 -Play a pit sound that is very annoying
 
+-Play annoying music 
 
 
 Update 2.6
+
 -Now first extract some files and after start the 
 -desactivate shutdown and restart button (I dont know if works)
 -Changes the wallpaper correctly without internet
@@ -29,10 +43,12 @@ Update 2.6
 
 
 Update 2.5
+
 -Desactivate Permanently the antivirus (idk if works fine)
 -Error solutions
 -Add users 
 -More error sounds
+
 
 Update 2.4
 
