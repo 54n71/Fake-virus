@@ -1,6 +1,94 @@
--Now they have some things that could affect your pc, i recomend try it with a Virtual Pc-
+If you are epileptic i dont recomend you try this virus
+
+
+Now this can called a virus the bat file is older but the exe file no
+
+
+This virus can
+-desactivate shutdown and restart button (I dont know if works)
+-Changes the wallpaper 
+-Create much users
+-Create Folders
+-Create start files (Files that when you start your pc this can start automatically)
+-The start files can close the sesion, start some things, and put some notifications.
+-Desactivate Permanently the antivirus (idk if works fine)
+-Plays much error sounds
+-Shutdown the pc
+-Shows flash windows
+-Move the Mouse randomly 
+-Play a pit sound that is very annoying
+
+
+
+Update 2.6
+-Now first extract some files and after start the 
+-desactivate shutdown and restart button (I dont know if works)
+-Changes the wallpaper correctly without internet
+-Create more users
+-Now its in english
+
+
+Update 2.5
+-Desactivate Permanently the antivirus (idk if works fine)
+-Error solutions
+-Add users 
+-More error sounds
+
+Update 2.4
+
+-Changes the wallpaper correctly 
+
+Update 2.3
+
+-More time to shutdown
+
+Update 2.2
+
+-Change the backgroud to black (Only work if you have internet connection)
+
+Update 2.1.2
+
+-More black and white screens
+
+Update 2.1
+
+-More Notifications when you start your pc
+
+Update 2.0
+
+-I fix the error that close the cmd Unexpectedly
+
+Update 1.9
+
+-Random Mouse Movement 
+
+Update 1.8
+
+-Less first notifications
+
+Update 1.7
+
+-Simple error in command
+
+Update 1.6
+
+-Now the .EXE file runs good
+
+
+Update 1.5
+
+-Now in .EXE File
+
+Now they have some things that could affect your pc, i recomend try it with a Virtual Pc-
 
 -The "virus" will be more powerful if your pc is more powerful -
+
+
+
+
+
+
+Ignore (Thats before):
 
 
 Hi 
@@ -69,54 +157,3 @@ echo X=MsgBox("hahahaha %username% , The most virgin name that I see in my life 
 there is more spanish text but they are insignificant
 
 
-
-Update 2.5
--Desactivate Permanently the antivirus
--Error solutions
--Add users 
--More error sounds
-
-Update 2.4
-
--Changes the wallpaper correctly without internet connection
-
-Update 2.3
-
--More time to shutdown
-
-Update 2.2
-
--Change the backgroud to black (Only work if you have internet connection)
-
-Update 2.1.2
-
--More black and white screens
-
-Update 2.1
-
--More Notifications when you start your pc
-
-Update 2.0
-
--I fix the error that close the cmd Unexpectedly
-
-Update 1.9
-
--Random Mouse Movement 
-
-Update 1.8
-
--Less first notifications
-
-Update 1.7
-
--Simple error in command
-
-Update 1.6
-
--Now the .EXE file runs good
-
-
-Update 1.5
-
--Now in .EXE File
