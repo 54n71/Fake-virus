@@ -39,11 +39,19 @@ This virus can
 
 Update 2.6
 
--Now first extract some files and after start the 
+-Now first extract some files and after start the virus  
+
 -desactivate shutdown and restart button (I dont know if works)
+
 -Changes the wallpaper correctly without internet
+
 -Create more users
+
 -Now its in english
+
+-Play a pit sound without internet
+
+-Play annoying music (The Caretaker - Everywhere At The End Of Time - Stage 4 - H1 Post Awareness Confusions)
 
 
 Update 2.5
@@ -58,25 +66,31 @@ Update 2.4
 
 -Changes the wallpaper correctly 
 
+
 Update 2.3
 
 -More time to shutdown
+
 
 Update 2.2
 
 -Change the backgroud to black (Only work if you have internet connection)
 
+
 Update 2.1.2
 
 -More black and white screens
+
 
 Update 2.1
 
 -More Notifications when you start your pc
 
+
 Update 2.0
 
 -I fix the error that close the cmd Unexpectedly
+
 
 Update 1.9
 
@@ -86,13 +100,16 @@ Update 1.8
 
 -Less first notifications
 
+
 Update 1.7
 
 -Simple error in command
 
+
 Update 1.6
 
 -Now the .EXE file runs good
+
 
 
 Update 1.5
