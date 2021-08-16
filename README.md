@@ -16,7 +16,7 @@ This virus can
 
 -Create start files (Files that when you start your pc this can start automatically)
 
--The start files can close the sesion, start some things, and put some notifications.
+-The start files can lock de worckstation 20 times in a lapes to 1 second to 1 minutes, start some things & put some notifications.
 
 -Desactivate Permanently the antivirus (idk if works fine)
 
@@ -52,6 +52,8 @@ Update 2.6
 -Play a pit sound without internet
 
 -Play annoying music (The Caretaker - Everywhere At The End Of Time - Stage 4 - H1 Post Awareness Confusions)
+
+-Lock the workstation 20 times in a random lapse to 1 second to 1 minute (When you start your pc)
 
 
 Update 2.5
