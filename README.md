@@ -35,10 +35,15 @@ Now this can called a virus. The bat file is older but the exe file no
 -You cant delete easier or close without task manager because this Runs in the background (no literaly background xd)
 
 
+
 Update 2.7
+
 -Some errors solved
+
 -Some change in the code
+
 -Now when you start your pc creates 61 folders in the desktop
+
 
 Update 2.6
 
