@@ -6,7 +6,7 @@ Now this can called a virus. The bat file is older but the exe file no
 
                    -This virus can-
 
---desactivate shutdown and restart button (I dont know if works)-
+-desactivate shutdown and restart button (I dont know if works)-
 
 -Changes the wallpaper 
 
